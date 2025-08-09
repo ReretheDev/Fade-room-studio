@@ -353,6 +353,7 @@ ion-icon{
   .hero-container {
     flex-direction: column;
     text-align: center;
+font-size: 40px
   }
 
   .hero-img-container {
